@@ -1,1 +1,6 @@
-''Менеджер паролей был лишним на мой взгляд, ну пусть будет''
+## Func :
+* Password manager
+* Program installer
+* Disable Telemetry
+* Disable service
+  
