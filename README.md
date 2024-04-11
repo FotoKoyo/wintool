@@ -1,4 +1,4 @@
-## Func :
+## Func
 * Password manager
 * Program installer
 * Disable Telemetry
